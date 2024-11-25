@@ -115,26 +115,34 @@ const CONFIG = {
     'Computer Vision',
   ],
   experiences: [
+    
+    {
+      company: 'SLIIT(Sri Lankan Institution of Information and Technology), Sri Lanka',
+      position: 'Asistant Lecturer',
+      from: 'September 2024',
+      to: 'December 2024',
+      companyLink: 'https://www.sliit.lk',
+    },
     {
       company: 'Cove Island, Sri Lanka',
       position: 'Python Developer',
       from: 'July 2024',
-      to: 'Present',
-      companyLink: '',
+      to: 'September 2024',
+      companyLink: 'https://coveisland.lk',
     },
     {
       company: 'iVedha, Canada',
       position: 'Software Engineer',
       from: 'January 2024',
       to: 'July 2024',
-      companyLink: '',
+      companyLink: 'https://ivedha.com',
     },
     {
       company: 'Kihara Lab @ Purdue University, USA',
       position: 'Research Scholar',
       from: 'October 2022',
       to: 'February 2023',
-      companyLink: '',
+      companyLink: 'https://kiharalab.org',
     },
   ],
   // certifications: [
